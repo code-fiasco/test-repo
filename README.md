@@ -1,2 +1,2 @@
 # test-repo
-A repo to demonstrate that I am able to use github.
+My name is Jon and I am trying to do this entire course over a weekend :)
